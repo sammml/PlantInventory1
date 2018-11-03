@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- These are the options displayed in the suppliers drop-down Spinner -->
+    <string-array name="array_plant_suppliers">
+        <item>@string/supplier1</item>
+        <item>@string/supplier2</item>
+        <item>@string/supplier3</item>
+        <item>@string/supplier4</item>
+    </string-array>
+</resources>
